@@ -8,3 +8,9 @@ Conal Elliot
 
 * [[http://elementsofprogramming.com/][Elements of Programming]]
 Alexander Stepanov details on how knowing mathematics deeply helped in designing the C++ Standard libraries and shares his lessons on it in this book.
+
+* Lambda Calculus
+Forms the foundation of denotational design
+
+* Formal Languages
+Formal languages describe the grammars of programming languages that are used for parsing.
