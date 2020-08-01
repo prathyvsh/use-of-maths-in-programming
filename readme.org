@@ -1,0 +1,10 @@
+* Use of Maths in Programming
+
+* The Humble Programmer
+Edsger Djikstra
+
+* Denotational Design
+Conal Elliot
+
+* [[http://elementsofprogramming.com/][Elements of Programming]]
+Alexander Stepanov details on how knowing mathematics deeply helped in designing the C++ Standard libraries and shares his lessons on it in this book.
