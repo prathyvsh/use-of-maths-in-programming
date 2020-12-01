@@ -14,3 +14,11 @@ Forms the foundation of denotational design
 
 * Formal Languages
 Formal languages describe the grammars of programming languages that are used for parsing.
+
+* Concepts
+
+** Fixed Point
+
+*** [[Fixed Points and Strike Mandates][https://pvk.ca/Blog/2012/02/19/fixed-points-and-strike-mandates/]]
+
+*** [[Alfred’s Fixed Points][https://nextjournal.com/fredokun/alfreds-fixed-points]]
